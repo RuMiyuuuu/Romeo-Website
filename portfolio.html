@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Romeo | Portfolio</title>
+    <link rel="icon" type="image/png" href="Image/R-icon.png">
+    <link rel="stylesheet" href="portfolio-style.css" />
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@48,400,1,0" />
+    <script src="https://kit.fontawesome.com/af7cab36be.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+                <h1 class="logo">R<span>omeo</span></h1>
+                <ul id="sidemenu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="portfolio.html">Portfolio</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                    <i id="close-icon" class="fa-solid fa-xmark"></i>
+                </ul>
+                <i id="menu-icon" class="fa-solid fa-bars"></i>
+            </nav>
+        </div>
+        <div id="portfolio">
+            <div class="container">
+                <h1 class="sub-title">My Work</h1>
+                <div class="work-list">
+                    <div class="work">
+                        <img src="Image/work-1.png">
+                        <div class="layer">
+                            <h3>Drowsiness Detection System Web application</h3>
+                            <p>The purpose of the project is to create a detection and prevention technology that will
+                                reduce the number of traffic accidents caused by drowsy, intoxicated or driver fatigue.
+                            </p>
+                            <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                        </div>
+                    </div>
+                    <div class="work">
+                        <img src="Image/work-2.png">
+                        <div class="layer">
+                            <h3>Feel My Rhythm: A Facial Detection and MBTI-Based Music Recommendation Web Application
+                                using
+                                YOLOv8</h3>
+                            <p>The purpose of this project is to revolutionize music listening experiences by harnessing
+                                facial expression analysis and MBTI personality types to identify users' emotional cues
+                                and
+                                personality traits.</p>
+                            <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                        </div>
+                    </div>
+                    <div class="work">
+                        <img src="Image/work-3.png">
+                        <div class="layer">
+                            <h3>Chatbot-ReactJS</h3>
+                            <p> Intelligent web-based chatbot built with ReactJS that provides personalized
+                                responses based on user-provided information. Powered by the Gemini API, it processes
+                                and understands user input to deliver context-aware and accurate answers in real time.
+                            </p>
+                            <a href="#"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <a href="#" class="btn">See more</a>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- THEME TOGGLE BUTTON -->
+    <div class="floating-sidebar">
+        <button id="theme-toggle" title="Toggle light/dark mode">
+            <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="5"></circle>
+                <line x1="12" y1="1" x2="12" y2="3"></line>
+                <line x1="12" y1="21" x2="12" y2="23"></line>
+                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                <line x1="1" y1="12" x2="3" y2="12"></line>
+                <line x1="21" y1="12" x2="23" y2="12"></line>
+                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+        </button>
+    </div>
+    <div class="color">
+        <div id="root"></div>
+        <script type="module" src="/src/main.jsx"></script>
+    </div>
+</body>
+<script type="module" src="script.js"></script>
+
+</html>
