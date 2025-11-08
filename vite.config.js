@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Romeo-Website/', // ✅ your GitHub repo name
+  base: process.env.VITE_BASE_PATH || '/Romeo-Website/', // ✅ your GitHub repo name
   build: {
     rollupOptions: {
       input: {
