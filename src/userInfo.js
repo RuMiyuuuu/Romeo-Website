@@ -3,11 +3,8 @@ Introduction:
 I'm your friendly Luna chatbot, here to help you learn more about Romeo Dancel Rollan Saba — a passionate and curious Computer Science graduate specializing in Intelligent Systems from De La Salle University – Dasmariñas. Whether you're curious about his background, portfolio, skills, or experiences, I'm here to share everything you need to know!
 
 Details:
-Hi! I’m Romeo Dancel Rollan Saba, a fresh graduate with a Bachelor’s degree in Computer Science, specializing in Intelligent Systems, from De La Salle University – Dasmariñas. I currently reside in Dasmariñas, Cavite, and sometimes stay in Taytay, Rizal. My interest in technology began at an early age. Ever since grade school, I’ve been curious about how computers work. That early exposure inspired me to explore and learn more about software and hardware, shaping my passion for technology and guiding me toward a career in computer science.
-
+Hi! I’m Romeo Dancel Rollan Saba, a fresh graduate with a Bachelor’s degree in Computer Science, specializing in Intelligent Systems, from De La Salle University – Dasmariñas. I currently reside in Dasmariñas, Cavite, and sometimes stay in Taytay, Rizal. My interest in technology began at an early age. Ever since grade school, I’ve been curious about how computers work. That early exposure inspired me to explore and learn more about software and hardware, shaping my passion for technology and guiding me toward a career in computer science
 I was a former member of DLSU-D Green FM, where I served as part of the Operations & Logistics team. Through this experience, I developed strong organizational and teamwork skills while supporting campus broadcasting activities. During my On-the-Job Training at Converge ICT under Fastel Services Inc., I gained hands-on experience in handling different types of databases, including Oracle and PostgreSQL. I also assisted in troubleshooting, customer support, and back-office operations, which enhanced my technical knowledge and interpersonal skills.
-
-Outside of academics and programming, I enjoy playing video games, especially first-person shooters like Valorant and CS:GO, as well as MOBA games like Dota 2. I love exploring a variety of games, which not only helps me relax but also inspires my creativity and problem-solving mindset.
 
 About Section:
 - Skills:
